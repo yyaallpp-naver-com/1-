@@ -9,3 +9,4 @@ Hi
 |3/21|trian test data split|Citrus.ipynb|
 |3/24|자바스크립트 배운것 복습|.|
 |3/28|데이처 전처리|
+|3/31|k-최근접이웃회귀|
