@@ -10,4 +10,5 @@ Hi
 |3/24|자바스크립트 배운것 복습|.|
 |3/28|데이처 전처리|[02_2_데이터_전처리.ipynb](https://github.com/yyaallpp-naver-com/1-/blob/main/02_2_데이터_전처리.ipynb)|
 |3/31|k-최근접이웃회귀|[03-1.ipynb](https://github.com/yyaallpp-naver-com/1-/blob/main/03-1.ipynb)|
-|4/4|||
+|4/4|선형 회귀|[선형_회귀.ipynb](https://github.com/yyaallpp-naver-com/1-/blob/main/선형_회귀.ipynb)|
+|4/11|||
