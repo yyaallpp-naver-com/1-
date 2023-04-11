@@ -11,4 +11,4 @@ Hi
 |3/28|데이처 전처리|[02_2_데이터_전처리.ipynb](https://github.com/yyaallpp-naver-com/1-/blob/main/02_2_데이터_전처리.ipynb)|
 |3/31|k-최근접이웃회귀|[03-1.ipynb](https://github.com/yyaallpp-naver-com/1-/blob/main/03-1.ipynb)|
 |4/4|선형 회귀|[선형_회귀.ipynb](https://github.com/yyaallpp-naver-com/1-/blob/main/선형_회귀.ipynb)|
-|4/11|||
+|4/11|특성 공학과 규제|[03_03_특성_공학과_규제.ipynb](https://github.com/yyaallpp-naver-com/1-/blob/main/03_03__특성_공학과_규제.ipynb)|
